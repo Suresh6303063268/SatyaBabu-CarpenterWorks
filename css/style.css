@@ -420,6 +420,9 @@
     }
 }
 
+body{
+    overflow: hidden;
+}
 
 /*** Team ***/
 .team-item img {
