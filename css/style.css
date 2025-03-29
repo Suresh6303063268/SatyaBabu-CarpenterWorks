@@ -438,7 +438,7 @@
     transform: translateY(-50%);
     display: flex;
     flex-direction: column;
-    background: #FFFFFF;
+    background: #a63232;
     transition: .5s;
 }
 
